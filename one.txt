@@ -1,4 +1,6 @@
 welcom to college 
 siddaganga ploytechic
 tukuru
+hello world
+os python se java
 
